@@ -7,7 +7,7 @@ import org.apache.catalina.startup.Tomcat;
 import java.io.File;
 
 public class TomcatStarter {
-    private static final String WEBAPP_DIR_LOCATION = "jwp-servlet-kakao/src/main/webapp/";
+    private static final String WEBAPP_DIR_LOCATION = "src/main/webapp/";
 
     private final Tomcat tomcat;
 
